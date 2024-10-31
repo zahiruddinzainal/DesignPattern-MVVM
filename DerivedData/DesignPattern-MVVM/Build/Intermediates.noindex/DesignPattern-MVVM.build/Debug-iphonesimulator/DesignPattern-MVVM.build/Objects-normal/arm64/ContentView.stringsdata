@@ -1,0 +1,24 @@
+{
+  "source": "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Items",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}

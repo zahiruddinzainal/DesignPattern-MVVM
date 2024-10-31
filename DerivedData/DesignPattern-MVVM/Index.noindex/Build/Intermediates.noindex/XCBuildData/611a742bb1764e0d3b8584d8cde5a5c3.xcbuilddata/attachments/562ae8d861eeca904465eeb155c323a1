@@ -1,0 +1,33 @@
+{
+  "" : {
+    "dependencies" : "/Users/zvhir/ios/DesignPattern-MVVM/DerivedData/DesignPattern-MVVM/Index.noindex/Build/Intermediates.noindex/DesignPattern-MVVM.build/Debug-iphoneos/DesignPattern-MVVM.build/Objects-normal/arm64/DesignPattern-MVVM-master.d",
+    "diagnostics" : "/Users/zvhir/ios/DesignPattern-MVVM/DerivedData/DesignPattern-MVVM/Index.noindex/Build/Intermediates.noindex/DesignPattern-MVVM.build/Debug-iphoneos/DesignPattern-MVVM.build/Objects-normal/arm64/DesignPattern-MVVM-master.dia",
+    "emit-module-dependencies" : "/Users/zvhir/ios/DesignPattern-MVVM/DerivedData/DesignPattern-MVVM/Index.noindex/Build/Intermediates.noindex/DesignPattern-MVVM.build/Debug-iphoneos/DesignPattern-MVVM.build/Objects-normal/arm64/DesignPattern-MVVM-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zvhir/ios/DesignPattern-MVVM/DerivedData/DesignPattern-MVVM/Index.noindex/Build/Intermediates.noindex/DesignPattern-MVVM.build/Debug-iphoneos/DesignPattern-MVVM.build/Objects-normal/arm64/DesignPattern-MVVM-master-emit-module.dia",
+    "swift-dependencies" : "/Users/zvhir/ios/DesignPattern-MVVM/DerivedData/DesignPattern-MVVM/Index.noindex/Build/Intermediates.noindex/DesignPattern-MVVM.build/Debug-iphoneos/DesignPattern-MVVM.build/Objects-normal/arm64/DesignPattern-MVVM-master.swiftdeps"
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DerivedData/DesignPattern-MVVM/Index.noindex/Build/Intermediates.noindex/DesignPattern-MVVM.build/Debug-iphoneos/DesignPattern-MVVM.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/ContentView.swift" : {
+
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/DesignPattern_MVVMApp.swift" : {
+
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/Models/Item.swift" : {
+
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/Services/ApiService.swift" : {
+
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/ViewModels/ItemListView.swift" : {
+
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/Views/ItemListView.swift" : {
+
+  },
+  "/Users/zvhir/ios/DesignPattern-MVVM/DesignPattern-MVVM/Views/ProfileView.swift" : {
+
+  }
+}

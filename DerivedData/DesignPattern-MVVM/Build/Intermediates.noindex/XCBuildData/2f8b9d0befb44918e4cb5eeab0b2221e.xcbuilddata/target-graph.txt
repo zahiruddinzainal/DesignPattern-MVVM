@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'DesignPattern-MVVM' in project 'DesignPattern-MVVM' (no dependencies)
